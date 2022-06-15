@@ -1,3 +1,5 @@
+.gitignore
 /ProgressReports
 .DS_Store
 data
+.ipynb_checkpoints
